@@ -11,7 +11,6 @@
 - 💻 Proficient in Python, Java, C++, HTML, CSS, JavaScript, and Jupyter. Familiar with IDEs like Eclipse and VS Code.
 - 🚀 Currently fascinated by TypeScript, MongoDB, and Node.js, eager to explore the vast possibilities they offer.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/wesley-sum/)
+## Let's connect
 
-**[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2)](https://twitter.com/yourhandle)
-**[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green)](https://yourportfolio.com)
+-[![LinkedIn](https://example.com/linkedin-badge.png)](https://www.linkedin.com/in/wesley-sum/)
