@@ -1,4 +1,4 @@
-### Hi there! 👋 I'm Wesley
+# Hi there! 👋 I'm Wesley
 
 
 ## About Me
@@ -13,4 +13,4 @@
 
 ## Let's connect
 
--[![LinkedIn](https://example.com/linkedin-badge.png)](https://www.linkedin.com/in/wesley-sum/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/wesley-sum/)
