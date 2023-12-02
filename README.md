@@ -1,18 +1,55 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=sumtzehern.sumtzehern" />
 
-## Hi there! 👋 I'm Wesley
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Wesley+Sum!;" />
+</h1>
 
+<h3 align="center">An incoming software developer Intern</h3>
 
-### About Me
+<br/>
 
-- 🔭 I’m currently working on my project, fueled by curiosity and passion for coding!
+<div align="center">
+
+- 🔭 I’m currently working on my full stack project, fueled by curiosity and passion for coding!
 - 🌱 I’m currently diving deep into the realms of Python, HTML, CSS, and JavaScript, while also exploring the enchanting world of backend technologies.
 - 👨‍🎓 Studying Computer Science at Virginia Tech, set to graduate in Spring 2025.
 - 💡 Pronouns: He/Him
 - 🏊‍♂️ Former competitive swimmer turned coding enthusiast, always up for a challenge, both in the pool and in the code editor.
-- 💻 Proficient in Python, Java, C++, HTML, CSS, JavaScript, and Jupyter. Familiar with IDEs like Eclipse and VS Code.
-- 🚀 Currently fascinated by TypeScript, MongoDB, and Node.js, eager to explore the vast possibilities they offer.
+- 💻 Proficient in Python, Java, C++, HTML, CSS, JavaScript, React, and Jupyter. Familiar with IDEs like Eclipse and VS Code.
+- 🚀 Currently fascinated by TypeScript, MongoDB, and Node.js, Express, eager to explore the vast possibilities they offer.
 
-### Let's connect
+</div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/wesley-sum/)
+<div align="center"> 
+  <a href="mailto:wesleysumsoftwaredev@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/wesley-sum/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://wesleysum.vt.domains/" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
+
+<hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,mui,materialui,html,css,vscode,visualstudio,idea,eclipse,github,figma,tailwind,git" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,cpp,java,js,ts,express,mongodb,c,java,nextjs,sqlite,mysql,flask,postman,latex" /><br>
+</div>
+
+<br/>
+<hr/>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/sumtzehern/sumtzehern/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+<hr/>
