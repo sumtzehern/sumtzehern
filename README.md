@@ -10,13 +10,13 @@
 
 <div align="center">
 
-🔭 I’m currently working on my full stack project, fueled by curiosity and passion for coding!
-🌱 I’m currently diving deep into the realms of Python, HTML, CSS, and JavaScript, while also exploring the enchanting world of backend technologies.
-👨‍🎓 Studying Computer Science at Virginia Tech, set to graduate in Spring 2025.
-💡 Pronouns: He/Him
-🏊‍♂️ Former competitive swimmer turned coding enthusiast, always up for a challenge, both in the pool and in the code editor.
-💻 Proficient in Python, Java, C++, HTML, CSS, JavaScript, React, and Jupyter. Familiar with IDEs like Eclipse and VS Code.
-🚀 Currently fascinated by TypeScript, MongoDB, and Node.js, Express, eager to explore the vast possibilities they offer.
+🔭 I’m currently working on my full stack project, fueled by curiosity and passion for coding!<br>
+🌱 I’m currently diving deep into the realms of Python, HTML, CSS, and JavaScript, while also exploring the enchanting world of backend technologies.<br>
+👨‍🎓 Studying Computer Science at Virginia Tech, set to graduate in Spring 2025.<br>
+💡 Pronouns: He/Him<br>
+🏊‍♂️ Former competitive swimmer turned coding enthusiast, always up for a challenge, both in the pool and in the code editor.<br>
+💻 Proficient in Python, Java, C++, HTML, CSS, JavaScript, React, and Jupyter. Familiar with IDEs like Eclipse and VS Code.<br>
+🚀 Currently fascinated by TypeScript, MongoDB, and Node.js, Express, eager to explore the vast possibilities they offer.<br>
 
 </div>
 
