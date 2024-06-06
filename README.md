@@ -10,10 +10,9 @@
 
 <div align="left">
 
-🔭 I’m currently working on my full stack project using MERN stack. I've added a new layer to my coding journey by delving into the captivating worlds of Machine Learning (ML) and            Artificial Intelligence (AI). My curiosity and passion for coding now extend to exploring the intricate landscapes of data science and AI algorithms.<br>
+🔭 I’m currently working on my full stack project integrating AI agent. I've added a new layer to my coding journey by delving into the captivating worlds of Machine Learning (ML) and            Artificial Intelligence (AI).<br>
 👨‍🎓 Studying Computer Science at Virginia Tech, set to graduate in Spring 2025.<br>
-💡 Pronouns: He/Him<br>
-🏊‍♂️ Former competitive swimmer turned coding enthusiast, always up for a challenge, both in the pool and in the code editor.<br>
+🏊‍♂️ Former swimmer turned coding enthusiast, always up for a challenge, both in the pool and in the code editor.<br>
 💻 Proficient in Python, Java, C++, HTML, CSS, JavaScript, React, and Jupyter. Familiar with IDEs like Eclipse and VS Code.<br>
 🚀 Currently fascinated by Pytorch, MongoDB, and Node.js, Machine Learning, and Artificial Intelligence offer, I'm on a continuous journey of self-learning and growth in these dynamic     areas.<br>
 
