@@ -37,8 +37,9 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=git,java,kotlin,react,python,ts,js,nextjs,mui,nodejs,github,tailwind,spring," />
     <img src="https://skillicons.dev/icons?i=github,cpp,express,mongodb,postgres,django,aws,gcp,docker,elasticsearch,pytorch" /><br>
-    <a href="https://posthog.com?utm_source=badge" title="Built with PostHog analytics + more" target="_blank"><img src="https://d1hovhsvet4m1p.cloudfront.net/badges/posthog-badge-white-bg-color.svg" /></a>
 </div>
+<!--     <a href="https://posthog.com?utm_source=badge" title="Built with PostHog analytics + more" target="_blank"><img src="https://d1hovhsvet4m1p.cloudfront.net/badges/posthog-badge-white-bg-color.svg" /></a> -->
+
 
 <br/>
 <hr/>
